@@ -34,11 +34,7 @@ function Section() {
             </div>
           ))}
         </div>
-        <div className="text-center w-full mt-12 ">
-          <button className="py-2 px-6 border rounded-full bg-slate-700 text-center text-white text-lg hover:scale-110 transition-all duration-200">
-            View All Products
-          </button>
-        </div>
+    
 
         <h1 className="text-center mt-40 mb-8  text-2xl tracking-wide font-normal">
           Shop by Category
